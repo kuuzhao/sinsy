@@ -1,0 +1,9 @@
+*.o
+*.Po
+*.a
+*.dirstamp
+
+Makefile
+hts_engine
+config.log
+config.status
